@@ -1,5 +1,3 @@
-"""
-
 # Simple Facial Emotion Detection
 
 This project uses OpenCV to detect faces and a simple rule-based system to identify emotions from facial expressions in real-time using a webcam.
@@ -58,5 +56,3 @@ This is a simplified approach and not as accurate as deep learning models, but i
 ## License
 
 This project is licensed under [nnackpt](https://github.com/nnackpt) License.
-
-"""
