@@ -1,2 +1,5 @@
 venv
 haarcascade_frontalface_default.xml
+haarcascade_eye.xml
+haarcasecade_frontalface_default.xml
+data
